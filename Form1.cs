@@ -20,5 +20,10 @@ namespace Git_Ex1
         {
             MessageBox.Show("Saludos desde ¡Hola Mundo!");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Desde desde ¡Hola Mundo!");
+        }
     }
 }
